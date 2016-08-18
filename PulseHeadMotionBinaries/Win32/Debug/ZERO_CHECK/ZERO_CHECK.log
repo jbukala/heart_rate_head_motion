@@ -1,0 +1,10 @@
+﻿Build started 2-2-2016 16:20:27.
+     1>Project "C:\Users\i6093682\Desktop\PulseHeadMotionBinaries\ZERO_CHECK.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Users/i6093682/Desktop/PulseHeadMotionBinaries/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "C:\Users\i6093682\Desktop\PulseHeadMotionBinaries\ZERO_CHECK.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15

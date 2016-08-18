@@ -1,0 +1,2 @@
+/home/arlmaster/pulsefromheadmotion/CMakeFiles/pfhmain.dir
+/home/arlmaster/pulsefromheadmotion/CMakeFiles/pfhmlib.dir

@@ -1,0 +1,70 @@
+﻿  pfhmain.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+d:\programming\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\joris\desktop\masterthesis\pulse-head-motions\pulsefromheadmotion-master\include\pfhm_lib.h(59): warning C4457: declaration of 'face' hides function parameter
+  c:\users\joris\desktop\masterthesis\pulse-head-motions\pulsefromheadmotion-master\include\pfhm_lib.h(49): note: see declaration of 'face'
+c:\users\joris\desktop\masterthesis\pulse-head-motions\pulsefromheadmotion-master\include\pfhm_lib.h(708): warning C4100: 'n_sig': unreferenced formal parameter
+..\pulsefromheadmotion-master\include\continueAnalysis.h(71): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\pulsefromheadmotion-master\include\continueAnalysis.h(89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\pulsefromheadmotion-master\include\continueAnalysis.h(115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\pulsefromheadmotion-master\include\continueAnalysis.h(116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\pulsefromheadmotion-master\include\continueAnalysis.h(134): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\pulsefromheadmotion-master\include\continueAnalysis.h(161): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\pulsefromheadmotion-master\include\continueAnalysis.h(195): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\pulsefromheadmotion-master\include\continueAnalysis.h(196): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\pulsefromheadmotion-master\include\continueAnalysis.h(214): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\pulsefromheadmotion-master\include\continueAnalysis.h(270): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\pulsefromheadmotion-master\include\continueAnalysis.h(271): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\pulsefromheadmotion-master\include\continueAnalysis.h(310): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+..\IntraFace-v1.2-vs2012x32\include\intraface/Marcos.h(39): warning C4005: 'PI': macro redefinition
+  c:\users\joris\desktop\masterthesis\pulse-head-motions\pulsefromheadmotion-master\include\pfhm_lib.h(2): note: see previous definition of 'PI'
+..\IntraFace-v1.2-vs2012x32\include\intraface/Marcos.h(45): warning C4005: 'max': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(193): note: see previous definition of 'max'
+..\IntraFace-v1.2-vs2012x32\include\intraface/FaceAlignment.h(80): warning C4251: 'INTRAFACE::FaceAlignment::m_DR': class 'std::vector<cv::Mat,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'INTRAFACE::FaceAlignment'
+          with
+          [
+              _Ty=cv::Mat
+          ]
+..\IntraFace-v1.2-vs2012x32\include\intraface/FaceAlignment.h(80): warning C4251: 'INTRAFACE::FaceAlignment::m_Db': class 'std::vector<cv::Mat,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'INTRAFACE::FaceAlignment'
+          with
+          [
+              _Ty=cv::Mat
+          ]
+..\IntraFace-v1.2-vs2012x32\include\intraface/FaceAlignment.h(80): warning C4251: 'INTRAFACE::FaceAlignment::m_TR': class 'std::vector<cv::Mat,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'INTRAFACE::FaceAlignment'
+          with
+          [
+              _Ty=cv::Mat
+          ]
+..\IntraFace-v1.2-vs2012x32\include\intraface/FaceAlignment.h(80): warning C4251: 'INTRAFACE::FaceAlignment::m_Tb': class 'std::vector<cv::Mat,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'INTRAFACE::FaceAlignment'
+          with
+          [
+              _Ty=cv::Mat
+          ]
+..\IntraFace-v1.2-vs2012x32\include\intraface/FaceAlignment.h(81): warning C4251: 'INTRAFACE::FaceAlignment::m_winsize': class 'std::vector<int,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'INTRAFACE::FaceAlignment'
+          with
+          [
+              _Ty=int
+          ]
+..\IntraFace-v1.2-vs2012x32\include\intraface/FaceAlignment.h(82): warning C4251: 'INTRAFACE::FaceAlignment::m_flags': class 'std::vector<bool,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'INTRAFACE::FaceAlignment'
+          with
+          [
+              _Ty=bool
+          ]
+..\IntraFace-v1.2-vs2012x32\include\intraface/FaceAlignment.h(83): warning C4251: 'INTRAFACE::FaceAlignment::m_w': class 'cv::Mat' needs to have dll-interface to be used by clients of class 'INTRAFACE::FaceAlignment'
+  D:\Programming\opencv\build\x86\vc11\..\..\include\opencv2/core/core.hpp(1712): note: see declaration of 'cv::Mat'
+..\IntraFace-v1.2-vs2012x32\include\intraface/FaceAlignment.h(84): warning C4251: 'INTRAFACE::FaceAlignment::m_meanShape2D': class 'cv::Mat' needs to have dll-interface to be used by clients of class 'INTRAFACE::FaceAlignment'
+  D:\Programming\opencv\build\x86\vc11\..\..\include\opencv2/core/core.hpp(1712): note: see declaration of 'cv::Mat'
+..\IntraFace-v1.2-vs2012x32\include\intraface/FaceAlignment.h(86): warning C4251: 'INTRAFACE::FaceAlignment::m_cropROI': class 'cv::Rect_<int>' needs to have dll-interface to be used by clients of class 'INTRAFACE::FaceAlignment'
+..\IntraFace-v1.2-vs2012x32\include\intraface/FaceAlignment.h(87): warning C4251: 'INTRAFACE::FaceAlignment::m_offset': class 'cv::Rect_<_Tp>' needs to have dll-interface to be used by clients of class 'INTRAFACE::FaceAlignment'
+          with
+          [
+              _Tp=double
+          ]
+..\pulsefromheadmotion-master\src\pfhmain.cpp(101): warning C4305: 'initializing': truncation from 'double' to 'float'
+..\pulsefromheadmotion-master\src\pfhmain.cpp(196): warning C4018: '<': signed/unsigned mismatch
+..\pulsefromheadmotion-master\src\pfhmain.cpp(220): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+..\pulsefromheadmotion-master\src\pfhmain.cpp(237): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+..\pulsefromheadmotion-master\src\pfhmain.cpp(101): warning C4189: 'notFace': local variable is initialized but not referenced
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(35): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+  pfhmain.vcxproj -> C:\Users\Joris\Desktop\MasterThesis\pulse-head-motions\PulseHeadMotionBinaries\..\pulsefromheadmotion-master\bin\Release\pfhmain.exe

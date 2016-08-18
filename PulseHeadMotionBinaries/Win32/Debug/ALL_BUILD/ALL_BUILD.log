@@ -1,0 +1,10 @@
+﻿Build started 2-2-2016 14:56:37.
+     1>Project "C:\Users\i6093682\Desktop\PulseHeadMotionBinaries\ALL_BUILD.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/i6093682/Desktop/pulsefromheadmotion-master/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\i6093682\Desktop\PulseHeadMotionBinaries\CMakeFiles\generate.stamp is up-to-date.
+     1>Done Building Project "C:\Users\i6093682\Desktop\PulseHeadMotionBinaries\ALL_BUILD.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.13

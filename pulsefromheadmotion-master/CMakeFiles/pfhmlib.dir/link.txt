@@ -1,0 +1,1 @@
+/usr/bin/g++  -fPIC    -shared -Wl,-soname,libpfhmlib.so -o lib/libpfhmlib.so  

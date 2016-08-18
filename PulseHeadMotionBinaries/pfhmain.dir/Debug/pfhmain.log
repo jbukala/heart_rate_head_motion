@@ -1,0 +1,10 @@
+﻿  pfhmain.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+..\IntraFace-v1.2-vs2012x32\include\intraface/Marcos.h(39): warning C4005: 'PI': macro redefinition
+  c:\users\joris\desktop\masterthesis\pulse-head-motions\pulsefromheadmotion-master\include\pfhm_lib.h(2): note: see previous definition of 'PI'
+..\IntraFace-v1.2-vs2012x32\include\intraface/Marcos.h(45): warning C4005: 'max': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(193): note: see previous definition of 'max'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(35): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+pfhmain.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall INTRAFACE::FaceAlignment::FaceAlignment(char const *,char const *,class INTRAFACE::XXDescriptor const *,class cv::Rect_<double> const &)" (__imp_??0FaceAlignment@INTRAFACE@@QAE@PBD0PBVXXDescriptor@1@ABV?$Rect_@N@cv@@@Z) referenced in function _main
+pfhmain.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __thiscall INTRAFACE::FaceAlignment::~FaceAlignment(void)" (__imp_??1FaceAlignment@INTRAFACE@@QAE@XZ) referenced in function _main
+..\pulsefromheadmotion-master\bin\Debug\pfhmain.exe : fatal error LNK1120: 2 unresolved externals
